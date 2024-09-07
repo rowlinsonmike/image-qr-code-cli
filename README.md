@@ -2,7 +2,7 @@
   <br>
   <img src="docs/example.png" alt="image qr code cli" width="400"/>
   <br>
-  Image QR Code CLI
+  Image QR Code Generator CLI
   <br>
 </h1>
 
