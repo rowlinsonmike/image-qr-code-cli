@@ -25,7 +25,7 @@ The CLI will output a `qr_code.png` image in the current working directory.
 ## Install
 
 ```bash
-pip install https://github.com/rowlinsonmike/image-qr-code-cli/blob/main/dist/imgqr-0.1.0.tar.gz
+pip install https://github.com/rowlinsonmike/image-qr-code-cli/raw/main/dist/imgqr-0.1.0.tar.gz
 ```
 
 ## How to use
