@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "imgqr"
+version = "0.1.0"
+description = "simple image qr code creator"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=10.4.0",
+    "qrcode>=7.4.2",
+    "typer>=0.12.5",
+]
+
+[project.scripts]
+imgqr = "imgqr.main:app"
